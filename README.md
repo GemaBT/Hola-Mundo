@@ -5,7 +5,7 @@
 
 - Vamos a añadir una foto entre el texto 
   
-  ![Descripción de la imagen](Fotos/dos.jpg)
+  ![Descripción de la imagen](Fotos/cuatro.jpg)
 
 - Vamos a añadir un link
   - [GemaBT](https://github.com/GemaBT/Hola-Mundo)
